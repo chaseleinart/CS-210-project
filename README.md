@@ -1,9 +1,5 @@
 # CS-210 Project 3
-CS-210 Project Submission
 
-
-Update the README file in your repository and include your answers to each of the questions below, using the sub-bullets to help guide your thoughts. You could include the questions and write a few sentences in response to each one, or you could write a paragraph or two weaving together all of your answers.
-    
 This project is a command-line tool, fulfilling a sample need for a grocery store to optimize their inventory. 
 It reads a chronological input file of individual purchases, converts it to a summarized data file listing the frequencies of each item,
 and provides several options for analyzing the data. The menu options include searching for the frequency of a specific item, printing the frequency of all items, 
@@ -14,7 +10,6 @@ Invalid user commands are designed to continue prompting for input until a valid
 Additionally, the program is designed in a consultative way, providing easy to understand menu options and making it 
 easy for users to navigate or close the program.
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 I could enhance my code by using its core as the basis for a web application. Users are more accustomed to interacting with graphical programs on the web
 than command-line tools. Providing the ability to directly input new data files would extend the interactivity, relative to the current approach of recompiling 
 the program with a new data file available.
